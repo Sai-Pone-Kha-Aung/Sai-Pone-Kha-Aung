@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sai Pone Kha Aung (y2k)</h1>
-<h3 align="center">I'm software engineer who passionate to craft nonsense things.</h3>
+<h3 align="center">I'm a software engineer.</h3>
 
 - 👨‍💻 All of my projects are available at [https://sai-pone-kha-aung-portfolio.vercel.app/](https://sai-pone-kha-aung-portfolio.vercel.app/)
 
-- 📝 I regularly create contents about the tech to share what I learn from mistake and give an advice for newbies [https://youtube.com/@y2kDevHub?sub_confirmation=1](https://youtube.com/@y2kDevHub?sub_confirmation=1)
+- 📝 I regularly create contents about tech to share what I learn from mistakes and give advice for newbies [https://youtube.com/@y2kDevHub?sub_confirmation=1](https://youtube.com/@y2kDevHub?sub_confirmation=1)
 
 - 📫 How to reach me **saiponekhaaaung@gmail.com**
 
